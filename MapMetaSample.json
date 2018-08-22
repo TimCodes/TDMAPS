@@ -1,0 +1,41 @@
+{
+  "part_welltag": {
+    "url": "https://waterweb.sbtribes.com/arcgis/rest/services/WellPrac/FeatureServer/0",
+    "query": "1=1",
+    "gisfield": "TAG_NO_",
+    "tdfield": "partno",
+    "mainheader": "PARTNO",
+    "mainheaderlabel": "Well Tag No",
+    "secondheader": "FLEXFIELD21",
+    "secondheaderlabel": "POD ID",
+    "descriptionheader": "CBRN",
+    "descriptionheaderlabel": "Orignal Owner",
+    "outfields": "*"
+  },
+  "part_allotment": {
+    "url": "https://waterweb.sbtribes.com/arcgis/rest/services/Allotments/FeatureServer/0",
+    "query": "1=1",
+    "gisfield": "LSTMOSS_AT",
+    "tdfield": "enterprise",
+    "mainheader": "ENTERPRISE",
+    "mainheaderlabel": "Allotment no.",
+    "secondheader": "COMMENTS",
+    "secondheaderlabel": "Comments",
+    "descriptionheader": "FLEXFIELD13",
+    "descriptionheaderlabel": "BIA Acres",
+    "outfields": "*"
+  },
+  "part_pod": {
+    "url": "https://waterweb.sbtribes.com/arcgis/rest/services/WellPrac/FeatureServer/0",
+    "query": "1=1",
+    "gisfield": "TAG_NO_",
+    "tdfield": "numfield1",
+    "mainheader": "NUMFIELD1",
+    "mainheaderlabel": "Well Tag No.",
+    "secondheader": "Part No.",
+    "secondheaderlabel": "POD ID",
+    "descriptionheader": "FLEXFIELD21",
+    "descriptionheaderlabel": "Status",
+    "outfields": "*"
+  }
+}

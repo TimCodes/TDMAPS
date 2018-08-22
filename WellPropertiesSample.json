@@ -1,0 +1,757 @@
+[
+{
+  "enterprise": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "enterprise",
+    "displayname": "Water Right Number",
+    "islisted": "N",
+    "sortorder": 110,
+    "fieldtype": "text"
+  },
+  "flexfield15": {
+    "fieldvalue": "34E",
+    "sortposition": 0,
+    "fieldname": "flexfield15",
+    "displayname": "Range",
+    "islisted": "Y",
+    "sortorder": 140,
+    "fieldtype": "text"
+  },
+  "flexfield35_val": {
+    "fieldvalue": ""
+  },
+  "flexfield13": {
+    "fieldvalue": "21",
+    "sortposition": 0,
+    "fieldname": "flexfield13",
+    "displayname": "Section",
+    "islisted": "Y",
+    "sortorder": 120,
+    "fieldtype": "text"
+  },
+  "flexfield17": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "flexfield17",
+    "displayname": "Reservation District",
+    "islisted": "Y",
+    "sortorder": 60,
+    "fieldtype": "picklist"
+  },
+  "rlc1": {
+    "fieldvalue": "5S-34E-21ADD01",
+    "sortposition": 0,
+    "fieldname": "rlc1",
+    "displayname": "PODs",
+    "islisted": "N",
+    "sortorder": 350,
+    "fieldtype": "inlinequery"
+  },
+  "numfield11": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "numfield11",
+    "displayname": "Depth to Volcanic",
+    "islisted": "N",
+    "sortorder": 400,
+    "fieldtype": "text"
+  },
+  "flexfield19": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "flexfield19",
+    "displayname": "Total Depth (ft)",
+    "islisted": "N",
+    "sortorder": 14,
+    "fieldtype": "text"
+  },
+  "flexfield28": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "flexfield28",
+    "displayname": "Aquifer Type",
+    "islisted": "N",
+    "sortorder": 410,
+    "fieldtype": "picklist"
+  },
+  "numfield11dt": {
+    "fieldvalue": "000000000"
+  },
+  "itemid": {
+    "fieldvalue": "243606",
+    "sortposition": 0,
+    "fieldname": "itemid",
+    "displayname": "Well Tag",
+    "islisted": "N",
+    "sortorder": 0,
+    "fieldtype": "itemid"
+  },
+  "status": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "status",
+    "displayname": "Status",
+    "islisted": "N",
+    "sortorder": 280,
+    "fieldtype": "picklist"
+  },
+  "flexfield2": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "flexfield2",
+    "displayname": "GIS ID",
+    "islisted": "Y",
+    "sortorder": 20,
+    "fieldtype": "text"
+  },
+  "flexfield21": {
+    "fieldvalue": "Final",
+    "sortposition": 0,
+    "fieldname": "flexfield21",
+    "displayname": "Status",
+    "islisted": "Y",
+    "sortorder": 90,
+    "fieldtype": "picklist"
+  },
+  "flexfield8": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "flexfield8",
+    "displayname": "FHIP District",
+    "islisted": "Y",
+    "sortorder": 50,
+    "fieldtype": "numeric"
+  },
+  "flexfield14": {
+    "fieldvalue": "5S",
+    "sortposition": 0,
+    "fieldname": "flexfield14",
+    "displayname": "Township",
+    "islisted": "Y",
+    "sortorder": 130,
+    "fieldtype": "text"
+  },
+  "flexfield29": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "flexfield29",
+    "displayname": "Alt Name 1",
+    "islisted": "Y",
+    "sortorder": 210,
+    "fieldtype": "text"
+  },
+  "flexfield30": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "flexfield30",
+    "displayname": "Alt name 3",
+    "islisted": "Y",
+    "sortorder": 230,
+    "fieldtype": "text"
+  },
+  "nsn": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "nsn",
+    "displayname": "Land Status",
+    "islisted": "N",
+    "sortorder": 100,
+    "fieldtype": "picklist"
+  },
+  "datefield1": {
+    "fieldvalue": "19-APR-1972",
+    "sortposition": 0,
+    "fieldname": "datefield1",
+    "displayname": "Installation Date",
+    "islisted": "Y",
+    "sortorder": 18,
+    "fieldtype": "date"
+  },
+  "flexfield3": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "flexfield3",
+    "displayname": "USGS Index Number",
+    "islisted": "N",
+    "sortorder": 12,
+    "fieldtype": "text"
+  },
+  "flexfield35": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "flexfield35",
+    "displayname": "Owner (Organization)",
+    "islisted": "Y",
+    "sortorder": 300,
+    "fieldtype": "lookup"
+  },
+  "rlc2": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "rlc2",
+    "displayname": "Well Photo ID",
+    "islisted": "N",
+    "sortorder": 450,
+    "fieldtype": "inlinequery"
+  },
+  "partno": {
+    "fieldvalue": "1589",
+    "sortposition": 0,
+    "fieldname": "partno",
+    "displayname": "Well Tag No.",
+    "islisted": "Y",
+    "sortorder": 10,
+    "fieldtype": "text"
+  },
+  "flexfield8dt": {
+    "fieldvalue": "000000000"
+  },
+  "xcontrolled": {
+    "fieldvalue": "N"
+  },
+  "flexfield18": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "flexfield18",
+    "displayname": "Well Type",
+    "islisted": "N",
+    "sortorder": 240,
+    "fieldtype": "picklist"
+  },
+  "flexfield31": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "flexfield31",
+    "displayname": "Locate Method",
+    "islisted": "N",
+    "sortorder": 270,
+    "fieldtype": "picklist"
+  },
+  "cbrn": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "cbrn",
+    "displayname": "Original Owner",
+    "islisted": "Y",
+    "sortorder": 290,
+    "fieldtype": "text"
+  },
+  "rlc0": {
+    "fieldvalue": "2",
+    "sortposition": 0,
+    "fieldname": "rlc0",
+    "displayname": "Nbr of PODs",
+    "islisted": "Y",
+    "sortorder": 340,
+    "fieldtype": "inlinequery"
+  },
+  "numfield8": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "numfield8",
+    "displayname": "NRCE Log ID",
+    "islisted": "Y",
+    "sortorder": 320,
+    "fieldtype": "text"
+  },
+  "parttypecd": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "parttypecd",
+    "displayname": "POD Type",
+    "islisted": "N",
+    "sortorder": 80,
+    "fieldtype": "picklist"
+  },
+  "datefield1dt": {
+    "fieldvalue": "19720419000000"
+  },
+  "numfield8dt": {
+    "fieldvalue": "000000000"
+  },
+  "flexfield7": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "flexfield7",
+    "displayname": "Well Uses",
+    "islisted": "Y",
+    "sortorder": 260,
+    "fieldtype": "picklist"
+  },
+  "flexfield4": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "flexfield4",
+    "displayname": "Ground Elevation (ft)",
+    "islisted": "N",
+    "sortorder": 16,
+    "fieldtype": "text"
+  },
+  "partname": {
+    "fieldvalue": "",
+    "tooltip": "Location of the point of diversion",
+    "sortposition": 0,
+    "fieldname": "partname",
+    "displayname": "Site",
+    "islisted": "N",
+    "sortorder": 30,
+    "fieldtype": "text"
+  },
+  "flexfield32": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "flexfield32",
+    "displayname": "Driller",
+    "islisted": "Y",
+    "sortorder": 310,
+    "fieldtype": "picklist"
+  },
+  "xallowed": {
+    "fieldvalue": "N"
+  },
+  "flexfield11": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "flexfield11",
+    "displayname": "UTM Northing",
+    "islisted": "N",
+    "sortorder": 180,
+    "fieldtype": "text"
+  },
+  "flexfield6": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "flexfield6",
+    "displayname": "Alt Name 2",
+    "islisted": "Y",
+    "sortorder": 220,
+    "fieldtype": "text"
+  },
+  "flexfield16": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "flexfield16",
+    "displayname": "UTM Easting",
+    "islisted": "N",
+    "sortorder": 170,
+    "fieldtype": "text"
+  },
+  "itemiddt": {
+    "fieldvalue": "000243606"
+  },
+  "flexfield12": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "flexfield12",
+    "displayname": "FHIP Unit",
+    "islisted": "Y",
+    "sortorder": 40,
+    "fieldtype": "picklist"
+  },
+  "flexfield5": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "flexfield5",
+    "displayname": "Casing Top Elevation (ft)",
+    "islisted": "N",
+    "sortorder": 420,
+    "fieldtype": "text"
+  },
+  "comments": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "comments",
+    "displayname": "1/4, 1/4 Description",
+    "islisted": "N",
+    "sortorder": 150,
+    "fieldtype": "textarea"
+  },
+  "programfolder": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "programfolder",
+    "displayname": "Group Feature",
+    "islisted": "Y",
+    "sortorder": 190,
+    "fieldtype": "picklist"
+  }
+},
+{
+  "enterprise": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "enterprise",
+    "displayname": "Water Right Number",
+    "islisted": "N",
+    "sortorder": 110,
+    "fieldtype": "text"
+  },
+  "flexfield15": {
+    "fieldvalue": "34E",
+    "sortposition": 0,
+    "fieldname": "flexfield15",
+    "displayname": "Range",
+    "islisted": "Y",
+    "sortorder": 140,
+    "fieldtype": "text"
+  },
+  "flexfield35_val": {
+    "fieldvalue": ""
+  },
+  "flexfield13": {
+    "fieldvalue": "21",
+    "sortposition": 0,
+    "fieldname": "flexfield13",
+    "displayname": "Section",
+    "islisted": "Y",
+    "sortorder": 120,
+    "fieldtype": "text"
+  },
+  "flexfield17": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "flexfield17",
+    "displayname": "Reservation District",
+    "islisted": "Y",
+    "sortorder": 60,
+    "fieldtype": "picklist"
+  },
+  "rlc1": {
+    "fieldvalue": "5S-34E-21ADD01D",
+    "sortposition": 0,
+    "fieldname": "rlc1",
+    "displayname": "PODs",
+    "islisted": "N",
+    "sortorder": 350,
+    "fieldtype": "inlinequery"
+  },
+  "numfield11": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "numfield11",
+    "displayname": "Depth to Volcanic",
+    "islisted": "N",
+    "sortorder": 400,
+    "fieldtype": "text"
+  },
+  "flexfield19": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "flexfield19",
+    "displayname": "Total Depth (ft)",
+    "islisted": "N",
+    "sortorder": 14,
+    "fieldtype": "text"
+  },
+  "flexfield28": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "flexfield28",
+    "displayname": "Aquifer Type",
+    "islisted": "N",
+    "sortorder": 410,
+    "fieldtype": "picklist"
+  },
+  "numfield11dt": {
+    "fieldvalue": "000000000"
+  },
+  "itemid": {
+    "fieldvalue": "243606",
+    "sortposition": 0,
+    "fieldname": "itemid",
+    "displayname": "Well Tag",
+    "islisted": "N",
+    "sortorder": 0,
+    "fieldtype": "itemid"
+  },
+  "status": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "status",
+    "displayname": "Status",
+    "islisted": "N",
+    "sortorder": 280,
+    "fieldtype": "picklist"
+  },
+  "flexfield2": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "flexfield2",
+    "displayname": "GIS ID",
+    "islisted": "Y",
+    "sortorder": 20,
+    "fieldtype": "text"
+  },
+  "flexfield21": {
+    "fieldvalue": "Final",
+    "sortposition": 0,
+    "fieldname": "flexfield21",
+    "displayname": "Status",
+    "islisted": "Y",
+    "sortorder": 90,
+    "fieldtype": "picklist"
+  },
+  "flexfield8": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "flexfield8",
+    "displayname": "FHIP District",
+    "islisted": "Y",
+    "sortorder": 50,
+    "fieldtype": "numeric"
+  },
+  "flexfield14": {
+    "fieldvalue": "5S",
+    "sortposition": 0,
+    "fieldname": "flexfield14",
+    "displayname": "Township",
+    "islisted": "Y",
+    "sortorder": 130,
+    "fieldtype": "text"
+  },
+  "flexfield29": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "flexfield29",
+    "displayname": "Alt Name 1",
+    "islisted": "Y",
+    "sortorder": 210,
+    "fieldtype": "text"
+  },
+  "flexfield30": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "flexfield30",
+    "displayname": "Alt name 3",
+    "islisted": "Y",
+    "sortorder": 230,
+    "fieldtype": "text"
+  },
+  "nsn": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "nsn",
+    "displayname": "Land Status",
+    "islisted": "N",
+    "sortorder": 100,
+    "fieldtype": "picklist"
+  },
+  "datefield1": {
+    "fieldvalue": "19-APR-1972",
+    "sortposition": 0,
+    "fieldname": "datefield1",
+    "displayname": "Installation Date",
+    "islisted": "Y",
+    "sortorder": 18,
+    "fieldtype": "date"
+  },
+  "flexfield3": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "flexfield3",
+    "displayname": "USGS Index Number",
+    "islisted": "N",
+    "sortorder": 12,
+    "fieldtype": "text"
+  },
+  "flexfield35": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "flexfield35",
+    "displayname": "Owner (Organization)",
+    "islisted": "Y",
+    "sortorder": 300,
+    "fieldtype": "lookup"
+  },
+  "rlc2": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "rlc2",
+    "displayname": "Well Photo ID",
+    "islisted": "N",
+    "sortorder": 450,
+    "fieldtype": "inlinequery"
+  },
+  "partno": {
+    "fieldvalue": "1231",
+    "sortposition": 0,
+    "fieldname": "partno",
+    "displayname": "Well Tag No.",
+    "islisted": "Y",
+    "sortorder": 10,
+    "fieldtype": "text"
+  },
+  "flexfield8dt": {
+    "fieldvalue": "000000000"
+  },
+  "xcontrolled": {
+    "fieldvalue": "N"
+  },
+  "flexfield18": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "flexfield18",
+    "displayname": "Well Type",
+    "islisted": "N",
+    "sortorder": 240,
+    "fieldtype": "picklist"
+  },
+  "flexfield31": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "flexfield31",
+    "displayname": "Locate Method",
+    "islisted": "N",
+    "sortorder": 270,
+    "fieldtype": "picklist"
+  },
+  "cbrn": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "cbrn",
+    "displayname": "Original Owner",
+    "islisted": "Y",
+    "sortorder": 290,
+    "fieldtype": "text"
+  },
+  "rlc0": {
+    "fieldvalue": "2",
+    "sortposition": 0,
+    "fieldname": "rlc0",
+    "displayname": "Nbr of PODs",
+    "islisted": "Y",
+    "sortorder": 340,
+    "fieldtype": "inlinequery"
+  },
+  "numfield8": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "numfield8",
+    "displayname": "NRCE Log ID",
+    "islisted": "Y",
+    "sortorder": 320,
+    "fieldtype": "text"
+  },
+  "parttypecd": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "parttypecd",
+    "displayname": "POD Type",
+    "islisted": "N",
+    "sortorder": 80,
+    "fieldtype": "picklist"
+  },
+  "datefield1dt": {
+    "fieldvalue": "19720419000000"
+  },
+  "numfield8dt": {
+    "fieldvalue": "000000000"
+  },
+  "flexfield7": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "flexfield7",
+    "displayname": "Well Uses",
+    "islisted": "Y",
+    "sortorder": 260,
+    "fieldtype": "picklist"
+  },
+  "flexfield4": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "flexfield4",
+    "displayname": "Ground Elevation (ft)",
+    "islisted": "N",
+    "sortorder": 16,
+    "fieldtype": "text"
+  },
+  "partname": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "partname",
+    "displayname": "Site",
+    "islisted": "N",
+    "sortorder": 30,
+    "fieldtype": "text"
+  },
+  "flexfield32": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "flexfield32",
+    "displayname": "Driller",
+    "islisted": "Y",
+    "sortorder": 310,
+    "fieldtype": "picklist"
+  },
+  "xallowed": {
+    "fieldvalue": "N"
+  },
+  "flexfield11": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "flexfield11",
+    "displayname": "UTM Northing",
+    "islisted": "N",
+    "sortorder": 180,
+    "fieldtype": "text"
+  },
+  "flexfield6": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "flexfield6",
+    "displayname": "Alt Name 2",
+    "islisted": "Y",
+    "sortorder": 220,
+    "fieldtype": "text"
+  },
+  "flexfield16": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "flexfield16",
+    "displayname": "UTM Easting",
+    "islisted": "N",
+    "sortorder": 170,
+    "fieldtype": "text"
+  },
+  "itemiddt": {
+    "fieldvalue": "000243606"
+  },
+  "flexfield12": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "flexfield12",
+    "displayname": "FHIP Unit",
+    "islisted": "Y",
+    "sortorder": 40,
+    "fieldtype": "picklist"
+  },
+  "flexfield5": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "flexfield5",
+    "displayname": "Casing Top Elevation (ft)",
+    "islisted": "N",
+    "sortorder": 420,
+    "fieldtype": "text"
+  },
+  "comments": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "comments",
+    "displayname": "1/4, 1/4 Description",
+    "islisted": "N",
+    "sortorder": 150,
+    "fieldtype": "textarea"
+  },
+  "programfolder": {
+    "fieldvalue": "",
+    "sortposition": 0,
+    "fieldname": "programfolder",
+    "displayname": "Group Feature",
+    "islisted": "Y",
+    "sortorder": 190,
+    "fieldtype": "picklist"
+  }
+}
+]
